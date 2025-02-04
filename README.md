@@ -10,7 +10,6 @@ it is a simple web-based project that generates random background colors at regu
 ## Technologies Used
 
 - **HTML**
-- **CSS**
 - **JavaScript**
 
 ## Setup Instructions
