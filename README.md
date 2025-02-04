@@ -1,5 +1,5 @@
 ## Random-Color-GeneratorJavacript
-it is a simple web-based project that generates random background colors at regular intervals. It provides a fun and interactive way to see a variety of colors on your screen. The project includes two buttons: one to start the color-changing process and another to stop it.
+It is a simple web-based project that generates random background colors at regular intervals. It provides a fun and interactive way to see a variety of colors on your screen. The project includes two buttons: one to start the color-changing process and another to stop it.
 
 ## Features
 
